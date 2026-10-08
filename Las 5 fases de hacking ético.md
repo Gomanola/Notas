@@ -1,0 +1,14 @@
+# Reconnaissance
+Es el análisis inicial para recopilar pruebas e información de la organización sin interactuar directamente con los objetivos que desea atacar, utilizando a menudo fuentes abiertas. Puede ser de naturaleza pasiva o activa. El reconocimiento pasivo implica recopilar información sobre su objetivo sin su conocimiento, el activo utiliza herramientas y técnicas que "tocan" ligeramente al objetivo y aumenta el riesgo de ser descubierto. La información obtenida en esta fase podría no ser del todo confiable ya que es obtenida de terceros.
+# Scanning
+Una etapa de exploración más profunda y activa, es una fase de escaneo y enumeración, donde se identifican hosts u otras direcciones para ejecutar activamente herramientas y técnicas de mapeo de redes que buscan vulnerabilidades específicas en los sistemas. Esto puede ser algo tan simple como ejecutar un barrido de ping o un escaneo de red para ver qué sistemas y puertos están habilitados, o tan complejo como ejecutar un escáner de vulnerabilidades.
+# Gaining Access
+En esta fase, es la más divertida, porque es donde se rompen los controles y medidas de seguridad, se comprometen las vulnerabilidades previamente identificadas utilizando herramientas y scripts para tomar control del sistema sin autorización. Se ejecuta un ataque que puede ser tan simple como acceder a una red inalámbrica con contraseña débil, o tan complejos como escribir y enviar un desbordamiento de búfer o una inyección SQL contra una aplicación web.
+# Maintaining Access
+Los atacantes intentan habilitar y mantener una forma de regresar a la máquina o sistema que ya han comprometido, implementando puertas traseras (backdoors), troyanos, rootkits o malware para asegurarse de conservar el acceso al sistema a largo plazo. Éstas máquinas comprometidas se utilizan para escanear nuevas redes, registrar el tráfico o ejecutar ataques.
+# Clearing Tracks
+El paso final, donde el atacante intenta ocultar su éxito y eliminar cualquier evidencia de su intrusión para evitar ser detectado por las herramientas y equipos de seguridad. Las técnicas más recurrentes consisten en eliminar o alterar archivos de registro, ocultar archivos o directorios e incluso usar conexiones cifradas con el sistema víctima. Por ello, el no encontrar archivos de registro es un indicador de que un sistema está comprometido.
+
+Brett, T. (2019, 7 de mayo). _Learn the 5 phases of ethical hacking_ [Webinar]. EC-Council Cybersecurity Exchange. [https://www.eccouncil.org/cybersecurity-exchange/cyber-talks/learn-the-5-phases-of-ethical-hacking/](https://www.eccouncil.org/cybersecurity-exchange/cyber-talks/learn-the-5-phases-of-ethical-hacking/)
+
+Conislla, F. (s. f.). _Las fases del (ethical) hacking_. Seguridad Cero Academy. [https://academy.seguridadcero.com.pe/blog/fases-ethical-hacking](https://academy.seguridadcero.com.pe/blog/fases-ethical-hacking)

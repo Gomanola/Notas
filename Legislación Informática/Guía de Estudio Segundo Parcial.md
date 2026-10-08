@@ -1,0 +1,42 @@
+**Especificaciones para el exámen**
+- Llegar al menos 5 minutos antes del exámen (de preferencia 10 minutos)
+- Traer:
+	- Lápiz
+	- Goma
+	- Sacapuntas
+	- Pluma tinta azul
+	- Corrector
+- Cabello recogido
+
+**Temas de Examen**
+- Derecho como conjunto de 
+	- Tienen las 6 características que la norma jurídica, y tienen las mismas acciones
+- Las ramas del derecho
+	- Mencionar cuales son las ramas diel derecho: Derecho público, privado y social
+	- En que consiste el derecho privado: Son normas jurídicas que regulan las relaciones
+- Los sujetos del derecho
+	- Persona física
+	- Persona moral
+- Los 6 atributos de cada uno
+	- Capacidad
+	- Cacidad de goce
+	- Capacidad de ejercicio
+	- Estado civil
+	- Patrimonio
+	- Nombre
+		- Razón y Denominación social
+		- Apodo y alias
+	- Domicilio (Aprenderse los 4 domicilios de la persona física en orden)
+		- Donde se reside habitualmente
+		- Centro principal de negocios
+		- Donde resides simplemente
+		- Donde te encuentras
+		- Domicilio de persona mora, donde se encuentra físicamente su administración
+		- Domicilio de las sucursales es donde nacen tus obligaciones
+	- Nacionalidad
+		- Nacimiento o por naturalización
+		- 3 requisitos para que una persona moral se mexicana
+			- Más del 51 % de su capital sea mexicano
+			- Que el domicilio esté constituido dentro del terrotorio mexicano y que se encuentre bajo las leyes de méxico
+	- Representación
+		- Donde una persona se coloca en el lugar de la otra
