@@ -31,6 +31,6 @@ Con estas preguntas puedes elegir la inversión que más se ajuste a tus necesid
 
 Ya estás listo para potenciar tu dinero y avanzar en la carrera de las inversiones. ¡Empieza hoy!
 
-[[¿Cómo me quito el miedo?]]
+[[Cómo me quito el miedo]]
 [[Aprender para invertir hoy mismo]]
-[[¿Cómo le gano a la inflación?]]
+[[Cómo le gano a la inflación]]
