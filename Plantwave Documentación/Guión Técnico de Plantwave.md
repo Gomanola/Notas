@@ -516,3 +516,4 @@ Es como descubrir que cada planta tiene **su propia voz musical**, esperando a s
 |**Varianza**|Medida de cambios (0.01 = muy sensible)|
 |**Inversión**|1023 - valor (para lógica intuitiva)|
 |**Efectos**|EQ, Reverb, Delay (modifican sonido)|
+[[Documentación PlantWave]]

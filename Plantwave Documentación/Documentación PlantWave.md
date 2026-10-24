@@ -26,3 +26,5 @@ El programa es una aplicación escrita en Python que realiza tres tareas en hilo
      * Toma el número del sensor (de 0 a 1023) y mediante **interpolación matemática** lo traduce a una nota musical estándar (sistema **MIDI** de 36 a 96, que son las teclas de un piano).
   3. **Síntesis de Audio:**
      * Con la nota MIDI obtenida, calcula la **frecuencia de onda en Hertz (Hz)** y utiliza un sintetizador digital incorporado en Python (un **oscilador** que genera ondas senoidales, cuadradas, etc.) para crear el sonido físico que escuchas por los altavoces.
+
+[[Guión Técnico de Plantwave]]

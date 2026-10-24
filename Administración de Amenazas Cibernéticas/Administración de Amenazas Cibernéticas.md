@@ -1,4 +1,5 @@
-# Introducción
+# Módulo 1: Gestión de Cumplimiento
+## Introducción
 
 Es recomendable completar el curso de Defensa de la Red como requisito previo.
 Se crearán documentos de políticas que cubran la gobernanza y el cumplimiento. Se aprenderá sobre el cumplimiento de estándares de ética y marcos legales y regulatorios. Además, aprenderá a evaluar la vulnerabilidad de la red y los sistemas y creará un plan de gestión de riesgos. Finalmente, aprenderá sobre la respuesta posterior a un incidente, incluidas las nvestigaciones forenses, los métodos de recuperación y la planificación de la respuesta a incidentes. Todas estas acciones son aspectos críticos de la seguridad de red.
@@ -10,10 +11,10 @@ Estos materiales del curso brindarán el conocimiento y las habilidades que nece
 - Explique cómo se evalúan y administran las vulnerabilidades de los terminales.
 - Seleccionar controles de seguridad basados en los resultados de la evaluación de riesgos. Utilizar modelos de respuesta a incidentes y técnicas forenses para investigar incidentes de seguridad.
 
-## Descargar e Instalar Packet Tracer
+### Descargar e Instalar Packet Tracer
 [https://www.netacad.com/resources/lab-downloads](https://www.netacad.com/resources/lab-downloads?courseLang=es-XL)
 
-## Introducción a Cisco Packet Tracer
+### Introducción a Cisco Packet Tracer
 Packet Tracer es una herramienta que permite simular redes reales. Proporcionar tres menús principales:
 - Puede agregar dispositivos y conectarlos a través de cables o inalámbricos.
 - Puede seleccionar, eliminar, inspeccionar, etiquetar y agrupar componentes dentro de la red.
@@ -25,14 +26,14 @@ Todas las computadoras requieren de un sistema operativo para funcionar, incluso
 El Cisco Internetwork Operating System (IOS) es un sistema operativo que se utiliza en los dispositivos de red de Cisco. Permite la creación de configuraciones que personalizan el funcionamiento de los dispositivos de red en diferentes entornos de red. Se puede acceder a la CLI a través del puerto de la consola del dispositivo mediante el software de terminal o de forma remota mediante Secure Shell (SSH). Los administradores de red utilizan una computadora para acceder a la consola del dispositivo con el fin de crear o modificar la configuración del dispositivo.
 Los administradores de red suelen asignar un nombre a los dispositivos de red. El nombre de host se usa para identificar un dispositivo cuando se accede a su sistema operativo para la conexión de consola al Backup_Router. Una vez configurado el nombre de host, el nombre de host aparece como parte del símbolo del sistema IOS.
 
-# Gestión y Cumplimiento
+## Gestión y Cumplimiento
 
 La gobernanza es  un tema importante en la ciberseguridad, ya que describir las políticas y los procesos vigentes dentro de una organización que definen las responsabilidades por la aplicación y la rendición de cuentas para mitigar el riesgo cibernético. Estos también deben alinearse con las regulaciones clave.
 Como profesional de la ciberseguridad, debe tener conocimiento de las diferentes leyes que regulan la seguridad de la información, la ciberseguridad y la privacidad dentro de su país para garantizar el cumplimiento de la organización. Y no olvidemos su obligación ética de hacer siempre lo correcto.
 
-## Gobernanza
+### Gobernanza
 
-### Gestión
+#### Gestión
 
 La gobernanza de seguridad de TI determina quién está autorizado a tomar decisiones sobre los riesgos de ciberseguridad dentro de una organización. Demuestra responsabilidad y proporciona supervisión para garantizar que cualquier riesgo se mitigue adecuadamente y que las estrategias de seguridad estén alineadas con los objetivos comerciales de la organización y cumplan con las regulaciones.
 La gobernanza de la seguridad de TI no debe confundirse con la administración de la seguridad de TI, la cual define e implementa los controles que una organización necesita para mitigar los riesgos. De manera similar, la gobernanza de datos en particular determina quién está autorizado a tomar decisiones sobre los datos dentro de una organización.
@@ -47,7 +48,7 @@ Hay varios roles clave en los buenos programas de gobernanza de datos.
 | Administrador de datos             | Una persona que garantiza que los datos cumplan las necesidades empresariales de una organización y cumplan con los requisitos reglamentarios.                                                                                                             |
 | Funcionario de protección de datos | Una persona que supervisa la estrategia de protección de los datos de una organización.                                                                                                                                                                    |
 
-### Políticas de Ciberseguridad
+#### Políticas de Ciberseguridad
 
 Una política de ciberseguridad es un documento de alto nivel que describe la visión de una organización para la ciberseguridad, incluidos sus objetivos, necesidades, alcance y responsabilidades. Específicamente:
 - Demuestra el compromiso de una organización con la seguridad.
@@ -62,7 +63,7 @@ Una política de ciberseguridad es un documento de alto nivel que describe la vi
 | Política Específica del Sistema    | Este tipo de política se desarrolla para dispositivos o sistemas informáticos específicos y tiene como objetivo establecer la estandarización para aplicaciones aprobadas, software, configuraciones de sistemas operativos, hardware y contramedidas de refuerzo dentro de una organización. |
 | Política de Problemas Específicos  | Este tipo de política se desarrolla para ciertos problemas operativos, circunstancias o condiciones que pueden requerir requisitos o instrucciones más detallados.                                                                                                                            |
 
-### Tipos de Políticas de Seguridad
+#### Tipos de Políticas de Seguridad
 
 Una organización debe establecer políticas de seguridad claras y detalladas que todos los empleados conozcan. Es fundamental que estas políticas también cuenten con el respaldo del equipo de alta gerencia.
 
