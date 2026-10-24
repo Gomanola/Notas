@@ -35,7 +35,8 @@
               "title": "1.1.6 Práctica de Laboratorio - Desarrollando Políticas y Procedimientos de Ciberseguridad"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.65234375
+    "width": 340.65234375,
+    "collapsed": true
   },
   "right": {
     "id": "f34f50920c98fa14",
@@ -210,11 +212,11 @@
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false
     }
   },
-  "active": "6644a269b521cb31",
+  "active": "293fa7442b1c154c",
   "lastOpenFiles": [
-    "Administración de Amenazas Cibernéticas/Prácticas",
-    "Administración de Amenazas Cibernéticas/Prácticas/1.1.6 Práctica de Laboratorio - Desarrollando Políticas y Procedimientos de Ciberseguridad.md",
     "Administración de Amenazas Cibernéticas/Administración de Amenazas Cibernéticas.md",
+    "Administración de Amenazas Cibernéticas/Prácticas/1.1.6 Práctica de Laboratorio - Desarrollando Políticas y Procedimientos de Ciberseguridad.md",
+    "Administración de Amenazas Cibernéticas/Prácticas",
     "Sin título.base",
     "Sin título.md",
     "Plantwave Documentación/Documentación PlantWave.md",
@@ -257,7 +259,6 @@
     "Pasted Image 20260617015950_235.png",
     "Betintel/Imágen 12.png",
     "Sin título.canvas",
-    "Expo Gestión de Proyectos",
-    "Curso de BBVA"
+    "Expo Gestión de Proyectos"
   ]
 }
